@@ -1,0 +1,12 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$17
+repository::items
+$152
+[{"ItemID":1,"Name":"Banana","Price":6,"Stock":50},{"ItemID":2,"Name":"Apple","Price":20,"Stock":20},{"ItemID":3,"Name":"Apple2","Price":20,"Stock":20}]
